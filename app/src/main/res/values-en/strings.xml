@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- STRING NAMA APLIKASI DAN DESKRIPSI APLIKASI -->
+    <string name="app_name">BookTel</string>
+    <string name="intro_booktel">
+        Looking for a room for a temporary stay? Please choose Booktel
+    </string>
+
+    <string name="head">
+        Please choose your favorite hotel!
+    </string>
+
+    <!-- STRING LIST HOTEL -->
+    <string name="hotel1">Hotel 1</string>
+    <string name="hotel2">Hotel 2</string>
+    <string name="hotel3">Hotel 3</string>
+    <string name="hotel4">Hotel 4</string>
+
+    <!-- STRING TIME BOOKING -->
+    <string name="time1">1 Day</string>
+    <string name="time2">3 Day</string>
+    <string name="time3">1 Week</string>
+    <string name="time4">2 Week</string>
+
+    <!-- STRING TEXTFIELD JUMLAH KAMAR  -->
+    <string name="jumlah">Number Of Rooms</string>
+
+    <!-- STRING BUTTON HITUNG DAN RESET -->
+    <string name="hitung">Calculate</string>
+    <string name="setel_ulang">Reset</string>
+
+    <!-- STRING TOTAL HARGA DAN INPUT INVALID DAN BAGIKAN TEMPLATE-->
+    <string name="total_harga">Total Price : %1$.2f</string>
+    <string name="masukan_tidak_valid">Cannot be empty</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">
+        \nNumber of Rooms:  %1$s
+        \nHotel Price: Rp %2$s
+        \nHotel Type: %3$s
+        \nTotal Price: Rp %4$s
+    </string>
+
+    <!-- STRING ABOUT APLIKASI DAN COPYRIGHT-->
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="copyright">
+        Booktel is an application for booking temporary hotel rooms.
+
+        \n\nThis application was created for Mobpro Assesment 1.
+        \nCopyright © 2021 - 2024 Zefanya Hasiholan Manurung.
+        \nAll rights reserved.
+    </string>
+    <string name="kembali">Back</string>
+
+</resources>
